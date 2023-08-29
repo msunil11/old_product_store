@@ -5,10 +5,9 @@
 {
     'name': 'Old Product Create',
     'version': '11.0',
-    'license': 'AGPL-3',
     'author': 'sunil madhad',
     'website': '',
-    4 'price': 0,
+    'price': 0,
     'currency': 'EUR',
     'maintainer': 'sunil',
     'support': 'sm26111997jm@gmail.com',
