@@ -5,7 +5,7 @@
 {
     'name': 'Old Product Create',
     'version': '11.0',
-    'author': 'sunil madhad',
+    'author': 'sunil',
     'website': '',
     'price': 0,
     'currency': 'EUR',
