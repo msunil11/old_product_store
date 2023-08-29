@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright 2017 InfoTerra (<>)
-# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
+# Copyright 2017(<>)
 
 {
     'name': 'Old Product Create',
@@ -25,7 +24,10 @@
     'installable': True,
     'application': True,
     'auto_install': False,
-    'images': ['static/description/logo.png'],
+    'images': [
+        'static/description/logo.png',
+        'static/description/banner.jpg',
+    ],
 }
 
 
