@@ -4,11 +4,19 @@
 
 {
     'name': 'Old Product Create',
-    'version': '11.0.1.0.0',
+    'version': '11.0',
     'license': 'AGPL-3',
     'author': 'sunil madhad',
     'website': '',
-    'category': 'Web',
+    4 'price': 0,
+    'currency': 'EUR',
+    'maintainer': 'sunil',
+    'support': 'sm26111997jm@gmail.com',
+    'license': 'OPL-1',
+    'category': 'Phone',
+    'summary': 'sunil madhad Odoo',
+    'description': 'sunil Odoo',
+    'category': 'Product',
     'depends': ['stock'],
     'data': [
         'security/ir.model.access.csv',
@@ -16,4 +24,18 @@
         'views/old_product_view.xml',
     ],
     'installable': True,
+    'application': True,
+    'auto_install': False,
+    'images': ['static/description/logo.png'],
 }
+
+
+
+
+
+
+
+
+
+
+
